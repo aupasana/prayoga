@@ -1,0 +1,14 @@
+<script type="text/javascript">
+function fixSvaras() {
+  var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+
+  if (isSafari) {
+    document.body.innerHTML = document.body.innerHTML.replace(/॑॑/g, '᳚');
+    document.body.innerHTML = document.body.innerHTML.replace(/॑ः/g, 'ः॑');
+
+    document.body.innerHTML = document.body.innerHTML.replace(/([^ः])॑/g, '$1<span class="shift-accents-up">॑</span>');
+    document.body.innerHTML = document.body.innerHTML.replace(/([^ः])᳚/g, '$1<span class="shift-accents-up">᳚</span>');
+    document.body.innerHTML = document.body.innerHTML.replace(/॒/g, '<span class="shift-accents-down">॒</span>');
+  }
+};
+</script>
