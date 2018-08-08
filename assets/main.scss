@@ -3,6 +3,33 @@
 
 @import "minima";
 
+h1, h2, h3 {
+  color: darkblue;
+}
+
+h1 {
+  font-size: 130%;
+  font-weight: bold;
+  font-style:normal;;
+}
+
+h2 {
+  font-size: 120%;
+}
+
+h1 {
+  font-size: 110%;
+}
+
+.title {
+  font-size: 130%;
+  font-weight:bold;
+}
+
+.index h1::before, .index h1::after {
+  content: "";
+}
+
 *[lang="sa"] {
 font-family:  'Siddhanta-cakravat1',  serif  !important;
 font-size: 120%;
@@ -16,4 +43,19 @@ font-style:normal;
     line-height: 1.5;
     font-family: arial;
     font-weight: normal;
+}
+
+.index {
+  line-height: 1.5;
+}
+
+.count-mantras {
+  counter-reset: mantra;
+}
+
+.count-mantras>p:after {
+    counter-increment: mantra;
+    content: "(" counter(mantra) ")";
+    font-size: 0.9em;
+    padding-left: 10px;
 }
