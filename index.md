@@ -14,11 +14,13 @@ language: sa
 [रुद्रसूक्तं][ru],
 [ओषधिसूक्त][os],
 [अग्निसूक्तं][ag],
+[रुद्रप्रश्नः][rp]
 
 [pu]:{{ site.baseurl }}{% link sukta/purusha.md %}
 [br]:{{ site.baseurl }}{% link sukta/brahma.md %}
 [vi]:{{ site.baseurl }}{% link sukta/vishnu.md %}
 [ru]:{{ site.baseurl }}{% link sukta/rudra.md %}
+[rp]:{{ site.baseurl }}{% link sukta/rudra_prashna.md %}
 [os]:{{ site.baseurl }}{% link sukta/oshadhi.md %}
 [ag]:{{ site.baseurl }}{% link sukta/agni.md %}
 
