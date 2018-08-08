@@ -1,16 +1,14 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: prayoga
 language: sa
 title: विघ्नेश्वरपूजा
 ---
 
+{::options parse_block_html="true" /}
+
 Sit down on the āsana, and take akṣata in the hands.
 {: .eng-vidhi}
 
-{::options parse_block_html="true" /}
 शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।  
 प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥  
 
