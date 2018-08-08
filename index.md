@@ -1,7 +1,10 @@
 ---
-layout: prayoga
+layout: default
 language: sa
 ---
+
+{::options parse_block_html="true" /}
+<div lang="{{ page.language }}">
 
 ### आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
@@ -17,3 +20,4 @@ language: sa
 
 - सभावन्दनम्
 - [गणपतिपूजा]({{ site.baseurl }}{% link prayoga/mylapore/purvanga/ganapati_puja.md %})
+</div>
