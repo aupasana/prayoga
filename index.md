@@ -1,8 +1,12 @@
 ---
 layout: prayoga
 language: sa
-title:
 ---
+
+### आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
+
+- [उदकशान्तिः]({{ site.baseurl }}{% link prayoga/ratna/udaka_shanti.md %})
+
 
 ### शान्तिकर्माणि
 
