@@ -18,6 +18,7 @@ language: sa
 
 - [उदकशान्तिः]({{ site.baseurl }}{% link prayoga/ratna/udaka_shanti.md %})
 - [अङ्कुरार्पणम्]({{ site.baseurl }}{% link prayoga/ratna/ankurarpana.md %})
+- [पुण्याहवाचनम्]({{ site.baseurl }}{% link prayoga/ratna/punyahavachana.md %})
 
 
 ## शान्तिकर्माणि
