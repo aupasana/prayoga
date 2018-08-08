@@ -5,6 +5,7 @@ title: fonts
 ---
 
 This site requires a specific font and browser to render correctly.
+[Click here]({{ site.baseurl }}{% link font-test.md %}) to test the rendering in your browser.
 
 # Font
 
@@ -45,7 +46,3 @@ Vedic mantras are typeset with swaras on this site. They will render as expected
 - Windows: Chrome
 - OSX: Chrome / Safari
 - iOS: Chrome / Safari
-
-# Font / Browser rendering typeset
-
-[Click here](/font-test.html) to test the rendering in your browser.
