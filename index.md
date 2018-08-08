@@ -8,26 +8,37 @@ language: sa
 
 ## सूक्तानि
 
-- [पुरुषसूक्तम्]({{ site.baseurl }}{% link sukta/purusha.md %})
-- [ब्रह्मसूक्तम्]({{ site.baseurl }}{% link sukta/brahma.md %})
-- [विष्णुसूक्तम्]({{ site.baseurl }}{% link sukta/vishnu.md %})
-- [रुद्रसूक्तम्]({{ site.baseurl }}{% link sukta/rudra.md %})
-- [ओषधिसूक्तम्]({{ site.baseurl }}{% link sukta/oshadhi.md %})
+[पुरुषसूक्तं][pu],
+[ब्रह्मसूक्तं][br],
+[विष्णुसूक्तं][vi],
+[रुद्रसूक्तं][ru],
+[ओषधिसूक्त][os]
 
-## आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
+[pu]:{{ site.baseurl }}{% link sukta/purusha.md %}
+[br]:{{ site.baseurl }}{% link sukta/brahma.md %}
+[vi]:{{ site.baseurl }}{% link sukta/vishnu.md %}
+[ru]:{{ site.baseurl }}{% link sukta/rudra.md %}
+[os]:{{ site.baseurl }}{% link sukta/oshadhi.md %}
 
-- [उदकशान्तिः]({{ site.baseurl }}{% link prayoga/ratna/udaka_shanti.md %})
-- [अङ्कुरार्पणम्]({{ site.baseurl }}{% link prayoga/ratna/ankurarpana.md %})
-- [पुण्याहवाचनम्]({{ site.baseurl }}{% link prayoga/ratna/punyahavachana.md %})
+## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
+
+[उदकशान्तिः][udaka],
+[अङ्कुरार्पणं][ankur],
+[पुण्याहवाचनं][punya]
+
+[udaka]:{{ site.baseurl }}{% link prayoga/ratna/udaka_shanti.md %}
+[ankur]:{{ site.baseurl }}{% link prayoga/ratna/ankurarpana.md %}
+[punya]:{{ site.baseurl }}{% link prayoga/ratna/punyahavachana.md %}
 
 
-## शान्तिकर्माणि
+## <br>शान्तिकर्माणि
 
-- [भीमरथशान्तिः (शान्तिकुसुमाकरे)]({{ site.baseurl }}{% link prayoga/kusumakara/bhima_ratha_shanti.md %})  
-- [भीमरथशान्तिः (शान्तिरत्नाकरे)]({{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %})
+भीमरथशान्तिः [शान्तिकुसुमाकरे][kus-bhima] [शान्तिरत्नाकरे][rat-bhima]
 
-## पूर्वाङ्गम्
+[kus-bhima]:{{ site.baseurl }}{% link prayoga/kusumakara/bhima_ratha_shanti.md %}
+[rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
 
-- सभावन्दनम्  
-- [गणपतिपूजा]({{ site.baseurl }}{% link prayoga/mylapore/purvanga/ganapati_puja.md %})
+## <br>पूर्वाङ्गम्
+
+[गणपतिपूजा]({{ site.baseurl }}{% link prayoga/mylapore/purvanga/ganapati_puja.md %})
 </div>
