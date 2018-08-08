@@ -12,27 +12,29 @@ language: sa
 [ब्रह्मसूक्तं][br],
 [विष्णुसूक्तं][vi],
 [रुद्रसूक्तं][ru],
-[ओषधिसूक्त][os]
+[ओषधिसूक्त][os],
+[अग्निसूक्तं][ag],
 
 [pu]:{{ site.baseurl }}{% link sukta/purusha.md %}
 [br]:{{ site.baseurl }}{% link sukta/brahma.md %}
 [vi]:{{ site.baseurl }}{% link sukta/vishnu.md %}
 [ru]:{{ site.baseurl }}{% link sukta/rudra.md %}
 [os]:{{ site.baseurl }}{% link sukta/oshadhi.md %}
+[ag]:{{ site.baseurl }}{% link sukta/agni.md %}
 
 ## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
 [उदकशान्तिः][udaka],
 [अङ्कुरार्पणं][ankur],
 [पुण्याहवाचनं][punya],
-[प्रतिसरबन्धः][pratisara]
+[प्रतिसरबन्धः][pratisara],
+[अग्निमुखं][agnimukha]
 
 [udaka]:{{ site.baseurl }}{% link prayoga/ratna/udaka_shanti.md %}
 [ankur]:{{ site.baseurl }}{% link prayoga/ratna/ankurarpana.md %}
 [punya]:{{ site.baseurl }}{% link prayoga/ratna/punyahavachana.md %}
 [pratisara]:{{ site.baseurl }}{% link prayoga/ratna/pratisarabandha.md %}
-
-
+[agnimukha]:{{ site.baseurl }}{% link prayoga/ratna/agnimukha.md %}
 
 ## <br>शान्तिकर्माणि
 
