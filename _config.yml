@@ -18,7 +18,7 @@ email: (contact@info.com)
 author: (author.name)
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of various prayoga texts
-baseurl: "/playground" # the subpath of your site, e.g. /blog
+baseurl: "/prayoga" # the subpath of your site, e.g. /blog
 url: "http://aupasana.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
