@@ -12,6 +12,7 @@ language: sa
 - [ब्रह्मसूक्तम्]({{ site.baseurl }}{% link sukta/brahma.md %})
 - [विष्णुसूक्तम्]({{ site.baseurl }}{% link sukta/vishnu.md %})
 - [रुद्रसूक्तम्]({{ site.baseurl }}{% link sukta/rudra.md %})
+- [ओषधिसूक्तम्]({{ site.baseurl }}{% link sukta/oshadhi.md %})
 
 ## आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
