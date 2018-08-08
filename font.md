@@ -16,7 +16,7 @@ Instructions:
   - From 'Control Panel', search for 'Fonts' and click on it.
   - Drag and drop all the new .ttf files into the 'Fonts' list
   - You will likely need to kill the chrome process (or restart your computer)
-  
+
 - OSX
   - Decompress the siddhanta-variations.zip file by clicking on it in Finder
   - Open 'Font Book'
@@ -32,10 +32,10 @@ Instructions:
   - Share the .ttf file and select 'Copy to AnyFont'
   - Open AnyFont, click on 'Siddhanta-cakravat1', and follow the prompts to install the font via a configuration profile
   - Navigate to the site in Safari / Chrome
-  
+
 - Android
   - TODO
-  
+
 [font-sc1]: http://www.sanskritweb.net/itrans/siddhanta-variations.zip
 
 # Browser
@@ -45,3 +45,7 @@ Vedic mantras are typeset with swaras on this site. They will render as expected
 - Windows: Chrome
 - OSX: Chrome / Safari
 - iOS: Chrome / Safari
+
+# Font / Browser rendering typeset
+
+[Click here](/playground/font-test.html) to test the rendering in your browser.
