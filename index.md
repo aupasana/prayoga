@@ -24,11 +24,14 @@ language: sa
 
 [उदकशान्तिः][udaka],
 [अङ्कुरार्पणं][ankur],
-[पुण्याहवाचनं][punya]
+[पुण्याहवाचनं][punya],
+[प्रतिसरबन्धः][pratisara]
 
 [udaka]:{{ site.baseurl }}{% link prayoga/ratna/udaka_shanti.md %}
 [ankur]:{{ site.baseurl }}{% link prayoga/ratna/ankurarpana.md %}
 [punya]:{{ site.baseurl }}{% link prayoga/ratna/punyahavachana.md %}
+[pratisara]:{{ site.baseurl }}{% link prayoga/ratna/pratisarabandha.md %}
+
 
 
 ## <br>शान्तिकर्माणि
