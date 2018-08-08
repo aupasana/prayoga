@@ -3,16 +3,11 @@ function fixSvaras() {
   var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
 
   var isChrome = !!window.chrome;
+  var isEdge = navigator.userAgent.indexOf('Edge') >= 0);
 
-
-  if (isChrome) {
-    document.body.innerHTML = document.body.innerHTML.replace(/anudatta/g, '');
+  if (isEdge) {
+    // replace two single svaritas with one dirgha svarita
     document.body.innerHTML = document.body.innerHTML.replace(/॑॑/g, '᳚');
-    document.body.innerHTML = document.body.innerHTML.replace(/॑ः/g, 'ः॑');
-
-    document.body.innerHTML = document.body.innerHTML.replace(/([^ः])॑/g, '$1<span class="shift-accents-up">॑</span>');
-    document.body.innerHTML = document.body.innerHTML.replace(/([^ः])᳚/g, '$1<span class="shift-accents-up">᳚</span>');
-    document.body.innerHTML = document.body.innerHTML.replace(/॒/g, '<span class="shift-accents-down">॒</span>');
   }
 };
 </script>
