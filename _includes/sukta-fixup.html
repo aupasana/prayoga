@@ -2,7 +2,11 @@
 function fixSvaras() {
   var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
 
-  if (isSafari) {
+  var isChrome = !!window.chrome;
+
+
+  if (isChrome) {
+    document.body.innerHTML = document.body.innerHTML.replace(/anudatta/g, '');
     document.body.innerHTML = document.body.innerHTML.replace(/॑॑/g, '᳚');
     document.body.innerHTML = document.body.innerHTML.replace(/॑ः/g, 'ः॑');
 
@@ -11,4 +15,8 @@ function fixSvaras() {
     document.body.innerHTML = document.body.innerHTML.replace(/॒/g, '<span class="shift-accents-down">॒</span>');
   }
 };
+</script>
+
+<script type="text/javascript">
+    fixSvaras();
 </script>
