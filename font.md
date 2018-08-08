@@ -48,4 +48,4 @@ Vedic mantras are typeset with swaras on this site. They will render as expected
 
 # Font / Browser rendering typeset
 
-[Click here](/playground/font-test.html) to test the rendering in your browser.
+[Click here](/font-test.html) to test the rendering in your browser.
