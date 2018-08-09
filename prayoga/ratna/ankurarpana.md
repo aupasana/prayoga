@@ -6,6 +6,12 @@ title: अङ्कुरार्पणम्
 
 {::options parse_block_html="true" /}
 
+source: āpastambīya pūrvāpara prayoga  
+author: muddu shroutigal  
+publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
+script: grantha
+{: .eng-vidhi}
+
 ## सङ्कल्पः
 
 अमुकनक्षत्रे ऽमुकराशौ जातस्य मम कुमारस्य (श्वः) करिष्यमाणामुककर्माङ्गं * बोधायनोक्तप्रकारेण अङ्कुरार्पणकर्म करिष्यामि।

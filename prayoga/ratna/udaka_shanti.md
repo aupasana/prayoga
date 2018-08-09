@@ -6,6 +6,12 @@ title: उदकशान्तिः
 
 {::options parse_block_html="true" /}
 
+source: āpastambīya pūrvāpara prayoga  
+author: muddu shroutigal  
+publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
+script: grantha
+{: .eng-vidhi}
+
 ## शान्तिकालः
 
 आदौ शान्तिकाल उच्यते। जन्मनक्षत्रे पुण्यनक्षत्रे विवाहचौलोपनयनसमावर्तन-सीमन्तेषु अन्येषु मङ्गलकार्येषु ग्रहोपरागे ग्रहोत्पाते द्विपात्सु चतुष्पात्सु भयोत्पन्ने दुस्वप्ने भयङ्करे च उदकशान्तिं कुर्यात्॥

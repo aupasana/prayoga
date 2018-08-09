@@ -6,6 +6,12 @@ title: प्रतिसरबन्धः
 
 {::options parse_block_html="true" /}
 
+source: āpastambīya pūrvāpara prayoga  
+author: muddu shroutigal  
+publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
+script: grantha
+{: .eng-vidhi}
+
 पुंसां - अन्नप्राशनचौलोपनयनस्नानेषु विवाहे पुनरुद्वाहे च प्रतिसरबन्धं कुर्यात्।  
 स्त्रीणां - पुंसुवनसीमन्तोन्नयनान्नप्राशनचुडोद्वाहेषु कुर्यात्।
 
