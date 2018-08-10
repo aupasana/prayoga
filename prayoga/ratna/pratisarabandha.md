@@ -71,7 +71,6 @@ script: grantha
 
 इति प्रतिसरबन्धः॥
 
-
 ### <a name="rakshoghna"></a>कृणुष्व पाज इत्यनुवाकः
 
 {% capture my_include %}{% include sukta/rakshoghna.md %}{% endcapture %}
