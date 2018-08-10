@@ -17,7 +17,11 @@ language: sa
 [रुद्रप्रश्नः][rp],
 [हिरण्यवर्णीयाः][hi],
 [पवमानसूक्तं][pa],
-[आप्यं][apyam]
+[आप्यं][apyam],
+[राक्षोघ्नं][rakshoghna],
+[वरुणसूक्तं][varuna]
+[दुर्गासूक्तं][durga],
+[दुर्गासूक्तं][shri],
 
 [pu]:{{ site.baseurl }}{% link sukta/purusha.md %}
 [br]:{{ site.baseurl }}{% link sukta/brahma.md %}
@@ -29,6 +33,10 @@ language: sa
 [hi]:{{ site.baseurl }}{% link sukta/hiranyavarniya.md %}
 [pa]:{{ site.baseurl }}{% link sukta/pavamana.md %}
 [apyam]:{{ site.baseurl }}{% link sukta/apyam.md %}
+[rakshoghna]:{{ site.baseurl }}{% link sukta/rakshoghna.md %}
+[varuna]:{{ site.baseurl }}{% link sukta/varuna.md %}
+[durga]:{{ site.baseurl }}{% link sukta/durga.md %}
+[shri]:{{ site.baseurl }}{% link sukta/shri.md %}
 
 ## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
