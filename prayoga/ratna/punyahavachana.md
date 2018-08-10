@@ -74,7 +74,13 @@ script: grantha
 
 ## हिरण्यवर्णीयाः
 
+{% capture my_include %}{% include sukta/hiranyavarniya.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
 ## पवमानसूक्तम्
+
+{% capture my_include %}{% include sukta/pavamana.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 ## वरुणोद्वासनम्
 
