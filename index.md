@@ -40,12 +40,14 @@ language: sa
 
 ## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
+[गणपतिपूजा][ganapati],
 [उदकशान्तिः][udaka],
 [अङ्कुरार्पणं][ankur],
 [पुण्याहवाचनं][punya],
 [प्रतिसरबन्धः][pratisara],
 [अग्निमुखं][agnimukha]
 
+[ganapati]:{{ site.baseurl }}{% link prayoga/ratna/ganapati_puja.md %}
 [udaka]:{{ site.baseurl }}{% link prayoga/ratna/udaka_shanti.md %}
 [ankur]:{{ site.baseurl }}{% link prayoga/ratna/ankurarpana.md %}
 [punya]:{{ site.baseurl }}{% link prayoga/ratna/punyahavachana.md %}
