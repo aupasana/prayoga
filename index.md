@@ -40,6 +40,7 @@ language: sa
 
 ## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
+[भूमिका][bhumika],
 [गणपतिपूजा][ganapati],
 [उदकशान्तिः][udaka],
 [अङ्कुरार्पणं][ankur],
@@ -47,6 +48,7 @@ language: sa
 [प्रतिसरबन्धः][pratisara],
 [अग्निमुखं][agnimukha]
 
+[bhumika]:{{ site.baseurl }}{% link prayoga/ratna/bhumika.md %}
 [ganapati]:{{ site.baseurl }}{% link prayoga/ratna/ganapati_puja.md %}
 [udaka]:{{ site.baseurl }}{% link prayoga/ratna/udaka_shanti.md %}
 [ankur]:{{ site.baseurl }}{% link prayoga/ratna/ankurarpana.md %}
