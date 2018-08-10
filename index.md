@@ -21,7 +21,7 @@ language: sa
 [राक्षोघ्नं][rakshoghna],
 [वरुणसूक्तं][varuna]
 [दुर्गासूक्तं][durga],
-[दुर्गासूक्तं][shri],
+[श्रीसूक्तं][shri]
 
 [pu]:{{ site.baseurl }}{% link sukta/purusha.md %}
 [br]:{{ site.baseurl }}{% link sukta/brahma.md %}
