@@ -8,7 +8,7 @@ title: भूमिका
 
 source: āpastambīya pūrvāpara prayoga  
 author: muddu shroutigal  
-publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
+publisher: swarnapuri (chennai) 
 script: grantha
 {: .eng-vidhi}
 

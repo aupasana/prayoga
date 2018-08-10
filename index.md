@@ -40,11 +40,12 @@ language: sa
 
 ## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
-[भूमिका][bhumika],
+[गणपतिपूजा][bhumika],
 [गणपतिपूजा][ganapati],
 [उदकशान्तिः][udaka],
 [अङ्कुरार्पणं][ankur],
 [पुण्याहवाचनं][punya],
+[नान्दीश्राद्धविधिः][nandi],
 [प्रतिसरबन्धः][pratisara],
 [अग्निमुखं][agnimukha]
 
@@ -55,6 +56,7 @@ language: sa
 [punya]:{{ site.baseurl }}{% link prayoga/ratna/punyahavachana.md %}
 [pratisara]:{{ site.baseurl }}{% link prayoga/ratna/pratisarabandha.md %}
 [agnimukha]:{{ site.baseurl }}{% link prayoga/ratna/agnimukha.md %}
+[nandi]:{{ site.baseurl }}{% link prayoga/ratna/nandi.md %}
 
 ## <br>शान्तिकर्माणि
 
