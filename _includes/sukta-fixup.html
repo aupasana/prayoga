@@ -1,16 +1,14 @@
 <script type="text/javascript">
-function fixSvaras() {
-  var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+  var isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
 
   var isChrome = !!window.chrome;
-  var isEdge = navigator.userAgent.indexOf('Edge') >= 0);
+  var isEdge = navigator.userAgent.indexOf('Edge') >= 0;
 
   if (isEdge) {
     document.body.innerHTML = document.body.innerHTML.replace(/॑॑/g, '᳚');
   }
-};
-</script>
 
-<script type="text/javascript">
-    fixSvaras();
+  if (isSafari) {
+    // document.body.innerHTML = document.body.innerHTML.replace(/र[^ ]+र/g, "BADBAD");
+  }
 </script>

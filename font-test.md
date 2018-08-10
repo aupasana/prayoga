@@ -35,3 +35,7 @@ sequence: anudatta, svarita, two svaritas, dirgha svarita
 
 ꣳ॒ -  ॥१॥
  -  ॥२॥
+
+### Two rephas
+
+उर्वर्याय च, प्रकरणं, आर्तत्राण 
