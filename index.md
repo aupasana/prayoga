@@ -16,7 +16,8 @@ language: sa
 [अग्निसूक्तं][ag],
 [रुद्रप्रश्नः][rp],
 [हिरण्यवर्णीयाः][hi],
-[पवमानसूक्तं][pa]
+[पवमानसूक्तं][pa],
+[आप्यं][apyam]
 
 [pu]:{{ site.baseurl }}{% link sukta/purusha.md %}
 [br]:{{ site.baseurl }}{% link sukta/brahma.md %}
@@ -27,6 +28,7 @@ language: sa
 [ag]:{{ site.baseurl }}{% link sukta/agni.md %}
 [hi]:{{ site.baseurl }}{% link sukta/hiranyavarniya.md %}
 [pa]:{{ site.baseurl }}{% link sukta/pavamana.md %}
+[apyam]:{{ site.baseurl }}{% link sukta/apyam.md %}
 
 ## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
