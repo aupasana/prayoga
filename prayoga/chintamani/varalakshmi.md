@@ -1,5 +1,5 @@
 ---
-layout: prayoga
+layout: noswara
 language: sa
 title: वरलक्ष्मीपूजाकल्पः
 ---
