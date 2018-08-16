@@ -38,6 +38,12 @@ language: sa
 [durga]:{{ site.baseurl }}{% link sukta/durga.md %}
 [shri]:{{ site.baseurl }}{% link sukta/shri.md %}
 
+## <br>कल्पचिन्तामणिः (व्रतकल्पः)
+
+[वरलक्ष्मीपूजा][lakshmi]
+
+[lakshmi]:{{ site.baseurl }}{% link prayoga/chintamani/varalakshmi.md %}
+
 ## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
 [गणपतिपूजा][bhumika],
