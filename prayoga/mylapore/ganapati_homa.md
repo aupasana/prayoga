@@ -8,7 +8,7 @@ title: महागणपतिहोमप्रयोगः
 
 source: महागणपतिहोमः  
 publisher: a. subbaraman. mylapore veda adhyayana sabha  
-english translation:
+english translation by: Sundararajan Subramanian
 {: .eng-vidhi}
 
 <div class="eng-vidhi">
