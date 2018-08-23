@@ -74,7 +74,8 @@ language: sa
 [kus-bhima]:{{ site.baseurl }}{% link prayoga/kusumakara/bhima_ratha_shanti.md %}
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
 
-## <br>पूर्वाङ्गम्
+## <br>मयूरपुर-वेदाध्ययन-सभा-कृतयः
 
-[गणपतिपूजा]({{ site.baseurl }}{% link prayoga/mylapore/purvanga/ganapati_puja.md %})
+- [महागणपतिहोमप्रयोगः]({{ site.baseurl }}{% link prayoga/mylapore/ganapati_homa.md %})
+
 </div>
