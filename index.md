@@ -8,7 +8,11 @@ language: sa
 
 ## सूक्तानि
 
+Various sūktas and collections of mantras.
+{: .eng-vidhi}
+
 - [पुरुषसूक्तं][pu],
+[श्रीसूक्तं][shri],
 [ब्रह्मसूक्तं][br],
 [विष्णुसूक्तं][vi],
 [रुद्रसूक्तं][ru],
@@ -19,11 +23,10 @@ language: sa
 [पवमानसूक्तं][pa],
 [आप्यं][apyam],
 [राक्षोघ्नं][rakshoghna],
-[वरुणसूक्तं][varuna]
-[दुर्गासूक्तं][durga],
-[श्रीसूक्तं][shri]
+[वरुणसूक्तं][varuna],
+[दुर्गासूक्तं][durga]
 
-- [महान्यासः][mahanyasa]
+- [महान्यासः][mahanyasa] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
 
 [pu]:{{ site.baseurl }}{% link sukta/purusha.md %}
 [br]:{{ site.baseurl }}{% link sukta/brahma.md %}
@@ -43,11 +46,17 @@ language: sa
 
 ## <br>कल्पचिन्तामणिः (व्रतकल्पः)
 
+Various vratas and pūjās by brahma śrī muddu śroutigal.
+{: .eng-vidhi}
+
 - [वरलक्ष्मीपूजा][lakshmi]
 
 [lakshmi]:{{ site.baseurl }}{% link prayoga/chintamani/varalakshmi.md %}
 
 ## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
+
+Various saṁskāras for the āpastamba sūtra by brahma śrī muddu śroutigal.
+{: .eng-vidhi}
 
 - [भूमिका][bhumika],
 [गणपतिपूजा][ganapati],
@@ -69,12 +78,20 @@ language: sa
 
 ## <br>शान्तिकर्माणि
 
+Various śānti / prāyaścitta karmas.
+{: .eng-vidhi}
+
 - भीमरथशान्तिः [शान्तिकुसुमाकरे][kus-bhima] [शान्तिरत्नाकरे][rat-bhima]
 
 [kus-bhima]:{{ site.baseurl }}{% link prayoga/kusumakara/bhima_ratha_shanti.md %}
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
 
 ## <br>मयूरपुर-वेदाध्ययन-सभा-कृतयः
+
+Various saṁskāras, pūjās and śānti karmas
+(with full procedure and elaborate english instructions). These are translated
+from the publications of the mylapore vedādhyayana sabhā.
+{: .eng-vidhi}
 
 - [महागणपतिहोमप्रयोगः]({{ site.baseurl }}{% link prayoga/mylapore/ganapati_homa.md %})
 
