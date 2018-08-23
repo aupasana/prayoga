@@ -4,7 +4,7 @@ language: sa
 title: fonts
 ---
 
-This site requires a specific font and browser to render correctly.
+This site requires a specific font and the chrome browser to render correctly.
 [Click here]({{ site.baseurl }}{% link font-test.md %}) to test the rendering in your browser.
 
 # Font
@@ -22,9 +22,11 @@ Instructions:
   - Decompress the siddhanta-variations.zip file by clicking on it in Finder
   - Open 'Font Book'
   - Drag and drop all the new .ttf files into Font Book
-  - Navigate to the site in Safari / Chrome
+  - Navigate to the site in Chrome
+  - Note: The site will *mostly* render correctly in Safari
 
 - iOS
+  - Note: With the instructions below, the site will render *mostly correctly*.
   - Purchase the app 'AnyFont' by developer Florian Schimanke
   - Download the free app 'Documents' by developer Readdle
   - Click on the siddhanta-variations.zip file link in Safari, and open the file in Documents
@@ -44,5 +46,6 @@ Instructions:
 Vedic mantras are typeset with swaras on this site. They will render as expected only on specific browsers.
 
 - Windows: Chrome
-- OSX: Chrome / Safari
-- iOS: Chrome / Safari
+- OSX: Chrome
+- Android: Chrome 
+- iOS: Chrome / Safari (Note: None of the browsers on iOS will render the site 100% correctly)
