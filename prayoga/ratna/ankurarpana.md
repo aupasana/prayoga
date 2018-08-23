@@ -12,6 +12,8 @@ publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)
 script: grantha
 {: .eng-vidhi}
 
+{% capture toc_include %}{% include toc.md %}{% endcapture %}{{ toc_include | markdownify }}
+
 ## सङ्कल्पः
 
 अमुकनक्षत्रे ऽमुकराशौ जातस्य मम कुमारस्य (श्वः) करिष्यमाणामुककर्माङ्गं * बोधायनोक्तप्रकारेण अङ्कुरार्पणकर्म करिष्यामि।

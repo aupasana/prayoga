@@ -12,6 +12,8 @@ publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)
 script: grantha
 {: .eng-vidhi}
 
+{% capture toc_include %}{% include toc.md %}{% endcapture %}{{ toc_include | markdownify }}
+
 ॥ अथ सर्वतन्त्रसाधारणाग्निमुखप्रयोगः ॥
 
 ## उल्लेखनम्
@@ -251,7 +253,7 @@ script: grantha
 
 ॥ इत्यग्निमुखविधिः समाप्तः॥
 
-### <a name="agni"></a>अग्निसूक्तम्
+### अग्निसूक्तम्
 
 {% capture my_include %}{% include sukta/agni.md %}{% endcapture %}
 {{ my_include | markdownify }}

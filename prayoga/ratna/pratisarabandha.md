@@ -12,6 +12,8 @@ publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)
 script: grantha
 {: .eng-vidhi}
 
+{% capture toc_include %}{% include toc.md %}{% endcapture %}{{ toc_include | markdownify }}
+
 पुंसां - अन्नप्राशनचौलोपनयनस्नानेषु विवाहे पुनरुद्वाहे च प्रतिसरबन्धं कुर्यात्।  
 स्त्रीणां - पुंसुवनसीमन्तोन्नयनान्नप्राशनचुडोद्वाहेषु कुर्यात्।
 
