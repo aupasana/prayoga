@@ -8,7 +8,7 @@ language: sa
 
 ## सूक्तानि
 
-[पुरुषसूक्तं][pu],
+- [पुरुषसूक्तं][pu],
 [ब्रह्मसूक्तं][br],
 [विष्णुसूक्तं][vi],
 [रुद्रसूक्तं][ru],
@@ -22,6 +22,8 @@ language: sa
 [वरुणसूक्तं][varuna]
 [दुर्गासूक्तं][durga],
 [श्रीसूक्तं][shri]
+
+- [महान्यासः][mahanyasa]
 
 [pu]:{{ site.baseurl }}{% link sukta/purusha.md %}
 [br]:{{ site.baseurl }}{% link sukta/brahma.md %}
@@ -37,16 +39,17 @@ language: sa
 [varuna]:{{ site.baseurl }}{% link sukta/varuna.md %}
 [durga]:{{ site.baseurl }}{% link sukta/durga.md %}
 [shri]:{{ site.baseurl }}{% link sukta/shri.md %}
+[mahanyasa]:{{ site.baseurl }}{% link sukta/mahanyasa.md %}
 
 ## <br>कल्पचिन्तामणिः (व्रतकल्पः)
 
-[वरलक्ष्मीपूजा][lakshmi]
+- [वरलक्ष्मीपूजा][lakshmi]
 
 [lakshmi]:{{ site.baseurl }}{% link prayoga/chintamani/varalakshmi.md %}
 
 ## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
-[भूमिका][bhumika],
+- [भूमिका][bhumika],
 [गणपतिपूजा][ganapati],
 [उदकशान्तिः][udaka],
 [अङ्कुरार्पणं][ankur],
@@ -66,7 +69,7 @@ language: sa
 
 ## <br>शान्तिकर्माणि
 
-भीमरथशान्तिः [शान्तिकुसुमाकरे][kus-bhima] [शान्तिरत्नाकरे][rat-bhima]
+- भीमरथशान्तिः [शान्तिकुसुमाकरे][kus-bhima] [शान्तिरत्नाकरे][rat-bhima]
 
 [kus-bhima]:{{ site.baseurl }}{% link prayoga/kusumakara/bhima_ratha_shanti.md %}
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
