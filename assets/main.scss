@@ -77,3 +77,19 @@ font-style:normal;
     font-size: 0.9em;
     padding-left: 10px;
 }
+
+@media print {
+
+  .no-print {
+    display: none;
+  }
+
+  html, body {
+    margin: 10px;
+  }
+
+  @page {
+    margin: 10px;
+  }
+
+}
