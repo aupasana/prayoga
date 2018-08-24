@@ -12,7 +12,7 @@ publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)
 script: grantha
 {: .eng-vidhi}
 
-Note: sections with this background color are our additions to the original publication.
+Note: sections with this background color are additions to the original publication.
 {: .eng-add }
 
 ## अथ वरलक्ष्मीव्रतनिर्णयः
@@ -58,7 +58,7 @@ Perform the prāṇa pratiṣṭhā, get permission from one's elders and star
 करिष्यमाणस्य कर्मणः अविघ्नेन परिसमाप्त्यर्थं आदौ
 विघ्नेश्वरपूजां करिष्य इति नैवेद्यान्तं कृत्वा॥
 
-शुभे शोभने मुहूर्ते + शुभतिथौ अस्माकं सहकुटुम्बानां क्षेमस्थैर्य वीर्य विजयाऽयुरारोग्यैश्वर्याभिवृद्ध्यर्थं
+शुभे शोभने मुहूर्ते + शुभतिथौ अस्माकं सहकुटुम्बानां क्षेमस्थैर्यवीर्यविजयाऽयुरारोग्यैश्वर्याभिवृद्ध्यर्थं
 इष्टकाम्यार्थसिद्ध्यर्थं सत्सन्तानसौभाग्यशुभफलावाप्त्यर्थं
 दीर्घसौमङ्गल्यावप्त्यर्थं वरलक्ष्मीप्रसादसिद्ध्यर्थं कल्पोक्तप्रकारेण ध्यानावाहनादि षोडशोपचारैः
 वरलक्ष्मीपूजां करिष्ये॥
