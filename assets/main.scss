@@ -50,11 +50,16 @@ font-style:normal;
   font-style:normal;
 }
 
-.eng-vidhi {
+.eng-vidhi, .eng-add {
     font-size: 80%;
     line-height: 1.5;
     font-family: arial;
     font-weight: normal;
+}
+
+.eng-add {
+  background-color: whitesmoke;
+  padding: 15px 10px 15px 10px;
 }
 
 .skt-extra {

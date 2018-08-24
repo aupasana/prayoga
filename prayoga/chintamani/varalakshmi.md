@@ -12,6 +12,9 @@ publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)
 script: grantha
 {: .eng-vidhi}
 
+Note: sections with this background color are our additions to the original publication.
+{: .eng-add }
+
 ## अथ वरलक्ष्मीव्रतनिर्णयः
 
 तदुक्तं स्कान्दे पार्वतीं प्रति ईश्वरः --  
@@ -24,12 +27,26 @@ script: grantha
 धारयेद्दक्षिणे हस्ते नवसूत्रं सुगन्धिकम्।  
 सिद्ध्यन्ति सर्वकार्याणि वरलक्ष्मीप्रसादतः॥ इति
 
+In the skānda purāṇa, īśvara tells pārvatī --  
+In the śukla pakṣa of the śrāvaṇa māsa, on the friday evening close to (preceding)
+the full moon, ladies led by cārumatī invoked lakṣmī in a kumbha filled with new
+rice. They wore clean clothes and happily worshipped her. They wore a perfumed
+new thread on the right hand. Through the grace of varalakṣmī, all of ones works
+become successful.
+{: .eng-add }
+
 # अथ वरलक्ष्मीपूजाकल्पः
 
 स्वगृहे चतुरश्रं मण्डपं निर्माय, तन्मध्ये वेदिकां कृत्वा,
 रङ्गवल्ल्यादिभिरलङ्कृत्य, तन्मध्ये धान्यं तदुपरि तण्डुलैः विधाय,
 पद्ममेखामुल्लिख्य(?), तदुपरि तण्डुलपूरितकुम्भं निधाय,
 पञ्चपल्लवैः कूर्चैः नालिकेरफलेन चालङ्कृत्य, प्राणप्रतिष्ठां  कृत्वा, अनुज्ञापूर्वकं पूजां कुर्यात्॥
+
+Prepare a square maṇḍapa, and the vedikā within adorned appropriately.
+Please rice on top of a bed of grains, and draw a lotus there. On top of it,
+place a kumbha filled with rice. Adorn it with 5 leaves, a kūrca, and a coconut.
+Perform the prāṇa pratiṣṭhā, get permission from one's elders and start the pūjā.
+{: .eng-add }
 
 शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।  
 प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥
@@ -46,10 +63,8 @@ script: grantha
 दीर्घसौमङ्गल्यावप्त्यर्थं वरलक्ष्मीप्रसादसिद्ध्यर्थं कल्पोक्तप्रकारेण ध्यानावाहनादि षोडशोपचारैः
 वरलक्ष्मीपूजां करिष्ये॥
 
-विघ्नेश्वरमुद्वास्य॥
-
-तदङ्गं कलशपूजां करिष्ये। तज्जलेन पूजाद्रव्याण्यात्मानं
-च प्रोक्ष्य, कलशं करे गृहीत्वा,
+विघ्नेश्वरमुद्वास्य॥ तदङ्गं कलशपूजां करिष्ये।  
+तज्जलेन पूजाद्रव्याण्यात्मानं च प्रोक्ष्य, कलशं करे गृहीत्वा,
 
 कलशस्थापने श्लोकः --  
 वरलक्ष्मी महादेवी सर्वाभरणभूषिता।  
