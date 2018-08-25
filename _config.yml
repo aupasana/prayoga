@@ -32,6 +32,8 @@ plugins:
 includes:
 - prayoga/sukta
 
+exclude: [ "pdf" ] 
+
 #includes_dir: [ "_includes", "prayoga/sukta" ]
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
