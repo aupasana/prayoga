@@ -101,7 +101,7 @@ from the publications of the mylapore vedādhyayana sabhā.
 ## <br>अन्यच्च
 
 Other related texts:
-{: eng-vidhi}
+{: .eng-vidhi}
 
 - [महान्याससूत्रभाष्यम्][mahanyasa-b] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
 
