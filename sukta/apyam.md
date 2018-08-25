@@ -1,7 +1,7 @@
 ---
 layout: prayoga
 language: sa
-title: विष्णुसूक्तम्
+title: आप्यम् 
 ---
 
 {% capture my_include %}{% include sukta/apyam.md %}{% endcapture %}
