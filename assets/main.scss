@@ -42,6 +42,18 @@ font-weight:normal;
 font-style:normal;
 }
 
+.bhashya {
+  color: $grey-color;
+  border-left: 4px solid $grey-color-light;
+  padding-left: $spacing-unit / 2;
+  @include relative-font-size(1.125);
+  letter-spacing: -1px;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
 .noswara {
   font-family:  'Sanskrit 2003', 'Siddhanta-cakravat1', serif  !important;
   font-size: 130%;

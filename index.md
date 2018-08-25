@@ -98,4 +98,13 @@ from the publications of the mylapore vedādhyayana sabhā.
 
 - [महागणपतिहोमप्रयोगः]({{ site.baseurl }}{% link prayoga/mylapore/ganapati_homa.md %})
 
+## <br>अन्यच्च
+
+Other related texts:
+{: eng-vidhi}
+
+- [महान्याससूत्रभाष्यम्][mahanyasa-b] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
+
+[mahanyasa-b]:{{ site.baseurl }}{% link prayoga/mahanyasa_bhashya.md %}
+
 </div>
