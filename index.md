@@ -81,11 +81,12 @@ Various saṁskāras for the āpastamba sūtra by brahma śrī muddu śrou
 Various śānti / prāyaścitta karmas.
 {: .eng-vidhi}
 
-- शान्तिकुसुमाकरे -- [अब्दपूर्तिशान्तिः][kus-abda], [भीमरथशान्तिः][kus-bhima]
+- शान्तिकुसुमाकरे -- [अब्दपूर्तिशान्तिः][kus-abda], [भीमरथशान्तिः][kus-bhima], [रुद्रैकादशिनीप्रयोगः][kus-rudra11]
 - शान्तिरत्नाकरे -- [भीमरथशान्तिः][rat-bhima]
 
 [kus-abda]:{{ site.baseurl }}{% link prayoga/kusumakara/abda_purti_shanti.md %}
 [kus-bhima]:{{ site.baseurl }}{% link prayoga/kusumakara/bhima_ratha_shanti.md %}
+[kus-rudra11]:{{ site.baseurl }}{% link prayoga/kusumakara/rudraikadashini.md %}
 
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
 
