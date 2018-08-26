@@ -1,11 +1,16 @@
+{%- assign pdf_generation = false -%}
+
 <header class="site-header" role="banner">
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <!-- <a class="site-title" rel="author" href="{{ "http://www.aupasana.com/prayoga/" | relative_url }}">{{ site.title | escape }}</a> -->
+    {%- if pdf_generation -%}
+      <a class="site-title" rel="author" href="{{ "http://www.aupasana.com/prayoga/" | relative_url }}">{{ "aupasana.com/prayoga" | escape }}</a>
+    {%- else -%}
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    {%- endif -%}
 
     {%- if page_paths -%}
       <nav class="site-nav">
