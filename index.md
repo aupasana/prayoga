@@ -6,6 +6,13 @@ language: sa
 {::options parse_block_html="true" /}
 <div lang="{{ page.language }}" class="index">
 
+## Introduction
+
+This site hosts a collection of prayogas related to the tamil iyer āpastamba tradition.
+These include simple pūjas and vratas, samskāras and prāyaścitta karmas. Much of
+this content is taken from grantha texts.
+{: .eng-vidhi}
+
 ## सूक्तानि
 
 Various sūktas and collections of mantras.
@@ -26,8 +33,6 @@ Various sūktas and collections of mantras.
 [वरुणसूक्तं][varuna],
 [दुर्गासूक्तं][durga]
 
-- [महान्यासः][mahanyasa] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
-
 [pu]:{{ site.baseurl }}{% link sukta/purusha.md %}
 [br]:{{ site.baseurl }}{% link sukta/brahma.md %}
 [vi]:{{ site.baseurl }}{% link sukta/vishnu.md %}
@@ -42,7 +47,6 @@ Various sūktas and collections of mantras.
 [varuna]:{{ site.baseurl }}{% link sukta/varuna.md %}
 [durga]:{{ site.baseurl }}{% link sukta/durga.md %}
 [shri]:{{ site.baseurl }}{% link sukta/shri.md %}
-[mahanyasa]:{{ site.baseurl }}{% link sukta/mahanyasa.md %}
 
 ## <br>कल्पचिन्तामणिः (व्रतकल्पः)
 
@@ -78,12 +82,15 @@ Various saṁskāras for the āpastamba sūtra by brahma śrī muddu śrou
 
 ## <br>शान्तिकर्माणि
 
-Various śānti / prāyaścitta karmas.
+Various śānti / prāyaścitta karmas from the śānti kusumākara.
 {: .eng-vidhi}
 
-- शान्तिकुसुमाकरे -- [आवहन्तीहोमविधिः][kus-avahanti], [रुद्रैकादशिनीप्रयोगः][kus-rudra11], [अब्दपूर्तिशान्तिः][kus-abda], [भीमरथशान्तिः][kus-bhima], [उपरागशान्तिः][kus-uparaga]
+- [आवहन्तीहोमविधिः][kus-avahanti], [रुद्रैकादशिनीप्रयोगः][kus-rudra11], [अब्दपूर्तिशान्तिः][kus-abda], [भीमरथशान्तिः][kus-bhima], [उपरागशान्तिः][kus-uparaga]
 
-- शान्तिरत्नाकरे -- [भीमरथशान्तिः][rat-bhima]
+Various śānti / prāyaścitta karmas from the śānti ratnākara.
+{: .eng-vidhi}
+
+- [भीमरथशान्तिः][rat-bhima]
 
 [kus-avahanti]:{{ site.baseurl }}{% link prayoga/kusumakara/avahanti_homa.md %}
 [kus-abda]:{{ site.baseurl }}{% link prayoga/kusumakara/abda_purti_shanti.md %}
@@ -104,11 +111,13 @@ from the publications of the mylapore vedādhyayana sabhā.
 
 ## <br>अन्यच्च
 
-Other related texts:
+Other texts.
 {: .eng-vidhi}
 
+- [महान्यासः][mahanyasa] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
 - [महान्याससूत्रभाष्यम्][mahanyasa-b] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
 
+[mahanyasa]:{{ site.baseurl }}{% link sukta/mahanyasa.md %}
 [mahanyasa-b]:{{ site.baseurl }}{% link prayoga/mahanyasa_bhashya.md %}
 
 </div>
