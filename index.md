@@ -86,6 +86,7 @@ Various śānti / prāyaścitta karmas from the śānti kusumākara.
 {: .eng-vidhi}
 
 - [आवहन्तीहोमविधिः][kus-avahanti], [रुद्रैकादशिनीप्रयोगः][kus-rudra11], [अब्दपूर्तिशान्तिः][kus-abda], [भीमरथशान्तिः][kus-bhima], [उपरागशान्तिः][kus-uparaga]
+[सर्वरोगहरशान्तिः][kus-sarvaroga]
 
 Various śānti / prāyaścitta karmas from the śānti ratnākara.
 {: .eng-vidhi}
@@ -97,6 +98,7 @@ Various śānti / prāyaścitta karmas from the śānti ratnākara.
 [kus-bhima]:{{ site.baseurl }}{% link prayoga/kusumakara/bhima_ratha_shanti.md %}
 [kus-rudra11]:{{ site.baseurl }}{% link prayoga/kusumakara/rudraikadashini.md %}
 [kus-uparaga]:{{ site.baseurl }}{% link prayoga/kusumakara/uparaga_shanti.md %}
+[kus-sarvaroga]:{{ site.baseurl }}{% link prayoga/kusumakara/sarvarogahara.md %}
 
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
 

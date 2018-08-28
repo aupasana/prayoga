@@ -26,3 +26,5 @@ foreach my $d (@dirs) {
     system ($cmd);
   }
 }
+
+system ("electron-pdf -p A5 http://www.aupasana.com/prayoga index.pdf");
