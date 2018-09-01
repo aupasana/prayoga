@@ -53,9 +53,11 @@ Various sūktas and collections of mantras.
 Various vratas and pūjās by brahma śrī muddu śroutigal.
 {: .eng-vidhi}
 
-- [वरलक्ष्मीपूजा][lakshmi]
+- [वरलक्ष्मीपूजा][lakshmi],
+[जन्माष्टमीपूजा][janmashtami]
 
 [lakshmi]:{{ site.baseurl }}{% link prayoga/chintamani/varalakshmi.md %}
+[janmashtami]:{{ site.baseurl }}{% link prayoga/chintamani/janmashtami.md %}
 
 ## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
