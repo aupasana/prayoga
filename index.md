@@ -126,8 +126,10 @@ Other texts.
 
 - [महान्यासः][mahanyasa] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
 - [महान्याससूत्रभाष्यम्][mahanyasa-b] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
+- [उपाकर्मप्रयोगः][upakarma] <span class="eng-vidhi">by mu a vai anantarāma śāstrī</span>
 
 [mahanyasa]:{{ site.baseurl }}{% link sukta/mahanyasa.md %}
 [mahanyasa-b]:{{ site.baseurl }}{% link prayoga/mahanyasa_bhashya.md %}
+[upakarma]:{{ site.baseurl }}{% link prayoga/upakarma.md %}
 
 </div>
