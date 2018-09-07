@@ -114,7 +114,7 @@ from the publications of the mylapore vedādhyayana sabhā.
 - [महागणपतिहोमप्रयोगः]({{ site.baseurl }}{% link prayoga/mylapore/ganapati_homa.md %})
 
 ##‌ तात्पर्यदर्शनम्
-- [अध्ययनय् उपाकर्म+उत्सर्गः च, वेदव्रतानि](prayoga/taatparyadarshana/adhyayana-vrataani.md)
+- [अध्ययने -- उपाकर्मः उत्सर्गश्च, वेदव्रतानि](prayoga/taatparyadarshana/adhyayana-vrataani.md)
 - [पञ्चमहायज्ञाः (वैश्वदेवम्, देवयज्ञः, पितृयज्ञः, मनुष्ययज्ञः, भूतयज्ञः, ब्रह्मयज्ञः)](prayoga/taatparyadarshana/pancha-mahaa-yajjna.md)
 
 ## <br>अन्यच्च
