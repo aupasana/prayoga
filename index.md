@@ -104,7 +104,7 @@ Various śānti / prāyaścitta karmas from the śānti ratnākara.
 
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
 
-## <br>मयूरपुर-वेदाध्ययन-सभा-कृतयः
+## Mylapore vedādhyayana sabhā books
 
 Various saṁskāras, pūjās and śānti karmas
 (with full procedure and elaborate english instructions). These are translated
@@ -126,7 +126,7 @@ Other texts.
 
 - [महान्यासः][mahanyasa] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
 - [महान्याससूत्रभाष्यम्][mahanyasa-b] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
-- [उपाकर्मप्रयोगः][upakarma] <span class="eng-vidhi">by mu a vai anantarāma śāstrī</span>
+- [उपाकर्मप्रयोगः][upakarma] <span class="eng-vidhi">by anantarāma śāstrī</span>
 
 [mahanyasa]:{{ site.baseurl }}{% link sukta/mahanyasa.md %}
 [mahanyasa-b]:{{ site.baseurl }}{% link prayoga/mahanyasa_bhashya.md %}
