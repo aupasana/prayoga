@@ -1,9 +1,16 @@
+{%- assign pdf_generation = false -%}
+
 <header class="site-header" role="banner">
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    {%- if pdf_generation -%}
+      <a class="site-title" rel="author" href="{{ "http://www.aupasana.com/prayoga/" | relative_url }}">{{ "aupasana.com/prayoga" | escape }}</a>
+    {%- else -%}
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    {%- endif -%}
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -17,8 +24,12 @@
         </label>
 
 
+
         <div class="trigger">
-            <a class="page-link" href="{{ site.baseurl }}{% link font.md %}">fonts</a>
+        <a class="page-link no-print" href="{{ site.baseurl }}{% link font.md %}">Fonts</a>
+        <a class="page-link no-print" href="https://github.com/aupasana/prayoga/releases/download/latest/{{ page.path | replace: "/", "_" | replace: ".md", ".pdf" }}">PDF</a>
+        <a class="page-link no-print" href="https://github.com/aupasana/prayoga/tree/master/{{ page.path }}">Source</a>
+
 <!--
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}

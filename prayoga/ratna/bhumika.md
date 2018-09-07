@@ -1,5 +1,5 @@
 ---
-layout: prayoga
+layout: noswara
 language: sa
 title: भूमिका
 ---
@@ -8,7 +8,7 @@ title: भूमिका
 
 source: āpastambīya pūrvāpara prayoga  
 author: muddu shroutigal  
-publisher: swarnapuri (chennai) 
+publisher: swarnapuri (chennai)
 script: grantha
 {: .eng-vidhi}
 

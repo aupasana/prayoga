@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: prayoga / pūjā vidhi / karma pradīpa
+title: aupasana.com/prayoga
 email: (contact@info.com)
 author: (author.name)
 description: >- # this means to ignore newlines until "baseurl:"
@@ -31,6 +31,8 @@ plugins:
 
 includes:
 - prayoga/sukta
+
+exclude: [ "pdf" ] 
 
 #includes_dir: [ "_includes", "prayoga/sukta" ]
 # Exclude from processing.

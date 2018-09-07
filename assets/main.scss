@@ -42,11 +42,36 @@ font-weight:normal;
 font-style:normal;
 }
 
-.eng-vidhi {
+.bhashya {
+  color: $grey-color;
+  border-left: 4px solid $grey-color-light;
+  padding-left: $spacing-unit / 2;
+  @include relative-font-size(1.125);
+  letter-spacing: -1px;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.noswara {
+  font-family:  'Sanskrit 2003', 'Siddhanta-cakravat1', serif  !important;
+  font-size: 130%;
+  line-height:2.25;
+  font-weight:normal;
+  font-style:normal;
+}
+
+.eng-vidhi, .eng-add, #markdown-toc {
     font-size: 80%;
     line-height: 1.5;
     font-family: arial;
     font-weight: normal;
+}
+
+.eng-add {
+  background-color: whitesmoke;
+  padding: 15px 10px 15px 10px;
 }
 
 .skt-extra {
@@ -56,7 +81,19 @@ font-style:normal;
 
 .index {
   line-height: 1.5;
+  font-size: 100%;
 }
+
+.index > .eng-vidhi {
+  margin-left:70px;
+  margin-right: 50px;
+}
+
+.index > ul {
+  margin-left:90px;
+  margin-right: 50px;
+}
+
 
 .count-mantras {
   counter-reset: mantra;
@@ -67,4 +104,20 @@ font-style:normal;
     content: "(" counter(mantra) ")";
     font-size: 0.9em;
     padding-left: 10px;
+}
+
+@media print {
+
+  .no-print {
+    display: none;
+  }
+
+  html, body {
+    margin: 10px;
+  }
+
+  @page {
+    margin: 10px;
+  }
+
 }
