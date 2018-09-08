@@ -93,7 +93,7 @@ Various śānti / prāyaścitta karmas from the śānti kusumākara.
 Various śānti / prāyaścitta karmas from the śānti ratnākara.
 {: .eng-vidhi}
 
-- [भीमरथशान्तिः][rat-bhima]
+- [भीमरथशान्तिः][rat-bhima], [ज्वरशान्तिः][rat-jvara]
 
 [kus-avahanti]:{{ site.baseurl }}{% link prayoga/kusumakara/avahanti_homa.md %}
 [kus-abda]:{{ site.baseurl }}{% link prayoga/kusumakara/abda_purti_shanti.md %}
@@ -104,6 +104,7 @@ Various śānti / prāyaścitta karmas from the śānti ratnākara.
 [kus-vastu]:{{ site.baseurl }}{% link prayoga/kusumakara/vastu_shanti.md %}
 
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
+[rat-jvara]:{{ site.baseurl }}{% link prayoga/ratnakara/jvara_shanti.md %}
 
 ## Mylapore vedādhyayana sabhā books
 
