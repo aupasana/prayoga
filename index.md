@@ -53,9 +53,11 @@ Various sūktas and collections of mantras.
 Various vratas and pūjās by brahma śrī muddu śroutigal.
 {: .eng-vidhi}
 
-- [वरलक्ष्मीपूजा][lakshmi],
+- [प्राणप्रतिष्ठा][prana],
+[वरलक्ष्मीपूजा][lakshmi],
 [जन्माष्टमीपूजा][janmashtami]
 
+[prana]:{{ site.baseurl }}{% link prayoga/chintamani/prana_pratishtha.md %}
 [lakshmi]:{{ site.baseurl }}{% link prayoga/chintamani/varalakshmi.md %}
 [janmashtami]:{{ site.baseurl }}{% link prayoga/chintamani/janmashtami.md %}
 
