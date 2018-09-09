@@ -122,7 +122,7 @@ from the publications of the mylapore vedādhyayana sabhā.
 
 ## <br>गृह्यतात्पर्यदर्शनम्
 
-- [अध्ययने -- उपाकर्मः उत्सर्गश्च, वेदव्रतानि](prayoga/taatparyadarshana/adhyayana-vrataani.md)
+- [अध्ययने -- उपाकर्म, उत्सर्गः, वेदव्रतानि](prayoga/taatparyadarshana/adhyayana-vrataani.md)
 - [वैश्वदेवम्, पञ्चमहायज्ञाः (देवयज्ञः, पितृयज्ञः, मनुष्ययज्ञः, भूतयज्ञः, ब्रह्मयज्ञः)](prayoga/taatparyadarshana/pancha-mahaa-yajjna.md)
 - [पाकयज्ञेष्वग्निहोत्राधारितो विधिः](prayoga/taatparyadarshana/paaka-yajjna-agnihotra-riitiH.md)
 
