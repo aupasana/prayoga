@@ -6,8 +6,6 @@ language: sa
 {::options parse_block_html="true" /}
 <div lang="{{ page.language }}" class="index">
 
-## Introduction
-
 This site hosts a collection of prayogas related to the tamil iyer āpastamba tradition.
 These include simple pūjas and vratas, samskāras and prāyaścitta karmas. Much of
 this content is taken from grantha texts.
@@ -48,7 +46,7 @@ Various sūktas and collections of mantras.
 [durga]:{{ site.baseurl }}{% link sukta/durga.md %}
 [shri]:{{ site.baseurl }}{% link sukta/shri.md %}
 
-## <br>कल्पचिन्तामणिः (व्रतकल्पः)
+## कल्पचिन्तामणिः (व्रतकल्पः)
 
 Various vratas and pūjās by brahma śrī muddu śroutigal.
 {: .eng-vidhi}
@@ -63,7 +61,7 @@ Various vratas and pūjās by brahma śrī muddu śroutigal.
 [lakshmi]:{{ site.baseurl }}{% link prayoga/chintamani/varalakshmi.md %}
 [janmashtami]:{{ site.baseurl }}{% link prayoga/chintamani/janmashtami.md %}
 
-## <br>आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
+## आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
 
 Various saṁskāras for the āpastamba sūtra by brahma śrī muddu śroutigal.
 {: .eng-vidhi}
@@ -86,7 +84,7 @@ Various saṁskāras for the āpastamba sūtra by brahma śrī muddu śrou
 [agnimukha]:{{ site.baseurl }}{% link prayoga/ratna/agnimukha.md %}
 [nandi]:{{ site.baseurl }}{% link prayoga/ratna/nandi.md %}
 
-## <br>शान्तिकर्माणि
+## शान्तिकर्माणि
 
 Various śānti / prāyaścitta karmas from the śānti kusumākara.
 {: .eng-vidhi}
@@ -110,7 +108,7 @@ Various śānti / prāyaścitta karmas from the śānti ratnākara.
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
 [rat-jvara]:{{ site.baseurl }}{% link prayoga/ratnakara/jvara_shanti.md %}
 
-## <br> Mylapore vedādhyayana sabhā books
+## mylapore vedādhyayana sabhā books
 
 Various saṁskāras, pūjās and śānti karmas
 (with full procedure and elaborate english instructions). These are translated
@@ -119,8 +117,7 @@ from the publications of the mylapore vedādhyayana sabhā.
 
 - [महागणपतिहोमप्रयोगः]({{ site.baseurl }}{% link prayoga/mylapore/ganapati_homa.md %})
 
-
-## <br> गृह्यसूत्रभाष्यम्
+## गृह्यसूत्रभाष्यम्
 
 Extracts from sudarśana-sūrī's tātparya-darśana commentary on the āpastamba gr̥hya sūtras.
 {: .eng-vidhi}
