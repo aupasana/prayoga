@@ -131,7 +131,7 @@ Extracts from haradatta-miśra's anākulā commentary on the āpastamba gr̥
 
 - [अग्निहोत्रम्](prayoga/anukuulaa/paaka-yajjna-agnihotra-riitiH.md)
 
-## <br>अन्यच्च
+## अन्यच्च
 
 Other texts.
 {: .eng-vidhi}
