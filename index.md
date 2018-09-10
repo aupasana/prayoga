@@ -110,7 +110,7 @@ Various śānti / prāyaścitta karmas from the śānti ratnākara.
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
 [rat-jvara]:{{ site.baseurl }}{% link prayoga/ratnakara/jvara_shanti.md %}
 
-## Mylapore vedādhyayana sabhā books
+## <br> Mylapore vedādhyayana sabhā books
 
 Various saṁskāras, pūjās and śānti karmas
 (with full procedure and elaborate english instructions). These are translated
@@ -120,15 +120,19 @@ from the publications of the mylapore vedādhyayana sabhā.
 - [महागणपतिहोमप्रयोगः]({{ site.baseurl }}{% link prayoga/mylapore/ganapati_homa.md %})
 
 
-## <br>गृह्यतात्पर्यदर्शनम्
+## <br> गृह्यसूत्रभाष्यम्
 
-- [अध्ययने -- उपाकर्म, उत्सर्गः, वेदव्रतानि](prayoga/taatparyadarshana/adhyayana-vrataani.md)
-- [वैश्वदेवम्, पञ्चमहायज्ञाः (देवयज्ञः, पितृयज्ञः, मनुष्ययज्ञः, भूतयज्ञः, ब्रह्मयज्ञः)](prayoga/taatparyadarshana/pancha-mahaa-yajjna.md)
-- [पाकयज्ञेष्वग्निहोत्राधारितो विधिः](prayoga/taatparyadarshana/paaka-yajjna-agnihotra-riitiH.md)
+Extracts from sudarśana-sūrī's tātparya-darśana commentary on the āpastamba gr̥hya sūtras.
+{: .eng-vidhi}
 
-## <br>अनुकूला
-- [पाकयज्ञेष्वग्निहोत्राधारितो विधिः](prayoga/anukuulaa/paaka-yajjna-agnihotra-riitiH.md)
+- [उपाकर्म, उत्सर्गः, वेदव्रतानि](prayoga/taatparyadarshana/adhyayana-vrataani.md),
+[वैश्वदेवम्](prayoga/taatparyadarshana/pancha-mahaa-yajjna.md),
+[अग्निहोत्रम्](prayoga/taatparyadarshana/paaka-yajjna-agnihotra-riitiH.md)
 
+Extracts from haradatta-miśra's anākulā commentary on the āpastamba gr̥hya sūtras.
+{: .eng-vidhi}
+
+- [अग्निहोत्रम्](prayoga/anukuulaa/paaka-yajjna-agnihotra-riitiH.md)
 
 ## <br>अन्यच्च
 
