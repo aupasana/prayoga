@@ -11,10 +11,7 @@ These include simple pūjas and vratas, samskāras and prāyaścitta karmas.
 this content is taken from grantha texts.
 {: .eng-vidhi}
 
-## सूक्तानि
-
-Various sūktas and collections of mantras.
-{: .eng-vidhi}
+## sūktas / mantras
 
 - [पुरुषसूक्तं][pu],
 [श्रीसूक्तं][shri],
@@ -46,9 +43,9 @@ Various sūktas and collections of mantras.
 [durga]:{{ site.baseurl }}{% link sukta/durga.md %}
 [shri]:{{ site.baseurl }}{% link sukta/shri.md %}
 
-## कल्पचिन्तामणिः (व्रतकल्पः)
+## festival pūjās and vratas
 
-Various vratas and pūjās by brahma śrī muddu śroutigal.
+From brahma śrī muddu śroutigal's kalpa cintāmaṇi:
 {: .eng-vidhi}
 
 - [प्राणप्रतिष्ठा][prana],
@@ -61,9 +58,9 @@ Various vratas and pūjās by brahma śrī muddu śroutigal.
 [lakshmi]:{{ site.baseurl }}{% link prayoga/chintamani/varalakshmi.md %}
 [janmashtami]:{{ site.baseurl }}{% link prayoga/chintamani/janmashtami.md %}
 
-## आपस्तम्बप्रयोगरत्नम् (पूर्वप्रयोगः)  
+## āpastamba pūrva prayoga
 
-Various saṁskāras for the āpastamba sūtra by brahma śrī muddu śroutigal.
+From brahma śrī muddu śroutigal's prayoga ratnam:
 {: .eng-vidhi}
 
 - [भूमिका][bhumika],
@@ -75,6 +72,11 @@ Various saṁskāras for the āpastamba sūtra by brahma śrī muddu śrou
 [प्रतिसरबन्धः][pratisara],
 [अग्निमुखं][agnimukha]
 
+Other works:
+{: .eng-vidhi}
+
+- [उपाकर्मप्रयोगः][upakarma] <span class="eng-vidhi">by anantarāma śāstrī</span>
+
 [bhumika]:{{ site.baseurl }}{% link prayoga/ratna/bhumika.md %}
 [ganapati]:{{ site.baseurl }}{% link prayoga/ratna/ganapati_puja.md %}
 [udaka]:{{ site.baseurl }}{% link prayoga/ratna/udaka_shanti.md %}
@@ -84,18 +86,26 @@ Various saṁskāras for the āpastamba sūtra by brahma śrī muddu śrou
 [agnimukha]:{{ site.baseurl }}{% link prayoga/ratna/agnimukha.md %}
 [nandi]:{{ site.baseurl }}{% link prayoga/ratna/nandi.md %}
 
-## शान्तिकर्माणि
+[upakarma]:{{ site.baseurl }}{% link prayoga/upakarma.md %}
 
-Various śānti / prāyaścitta karmas from the śānti kusumākara.
+## śānti / prāyaścitta karmas
+
+From the śānti kusumākara:
 {: .eng-vidhi}
 
 - [आवहन्तीहोमविधिः][kus-avahanti], [रुद्रैकादशिनीप्रयोगः][kus-rudra11], [अब्दपूर्तिशान्तिः][kus-abda], [भीमरथशान्तिः][kus-bhima], [उपरागशान्तिः][kus-uparaga]
 [सर्वरोगहरशान्तिः][kus-sarvaroga], [वास्तुशान्तिः][kus-vastu]
 
-Various śānti / prāyaścitta karmas from the śānti ratnākara.
+From the śānti ratnākara:
 {: .eng-vidhi}
 
 - [भीमरथशान्तिः][rat-bhima], [ज्वरशान्तिः][rat-jvara]
+
+{: .eng-vidhi}
+By T.M.Nārāyaṇa śāstrī:
+
+- [महान्यासः][mahanyasa],
+[महान्याससूत्रभाष्यम्][mahanyasa-b]
 
 [kus-avahanti]:{{ site.baseurl }}{% link prayoga/kusumakara/avahanti_homa.md %}
 [kus-abda]:{{ site.baseurl }}{% link prayoga/kusumakara/abda_purti_shanti.md %}
@@ -108,21 +118,22 @@ Various śānti / prāyaścitta karmas from the śānti ratnākara.
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
 [rat-jvara]:{{ site.baseurl }}{% link prayoga/ratnakara/jvara_shanti.md %}
 
+[mahanyasa]:{{ site.baseurl }}{% link sukta/mahanyasa.md %}
+[mahanyasa-b]:{{ site.baseurl }}{% link prayoga/mahanyasa_bhashya.md %}
+
 ## mylapore vedādhyayana sabhā books
 
-Various saṁskāras, pūjās and śānti karmas
-(with full procedure and elaborate english instructions). These are translated
-from the publications of the mylapore vedādhyayana sabhā.
+These are translated from the tamil/devanagari publications of the mylapore vedādhyayana sabhā.
 {: .eng-vidhi}
 
 - [महागणपतिहोमप्रयोगः]({{ site.baseurl }}{% link prayoga/mylapore/ganapati_homa.md %})
 
-## गृह्यसूत्रभाष्यम्
+## gr̥hya sūtra bhāṣya
 
-Extracts from sudarśana-sūrī's tātparya-darśana commentary on the āpastamba gr̥hya sūtras.
+Extracts from sudarśana-sūrī's tātparya-darśana commentary on the āpastamba gr̥hya sūtras:
 {: .eng-vidhi}
 
-- [उपाकर्म, उत्सर्गः, वेदव्रतानि](prayoga/taatparyadarshana/adhyayana-vrataani.md),
+- [उपाकर्म, उत्सर्गः, वेदव्रतानि](prayoga/taatparyadarshana/adhyayana-vrataani.md)
 
 <!-- [वैश्वदेवम्](prayoga/taatparyadarshana/pancha-mahaa-yajjna.md),
 [अग्निहोत्रम्](prayoga/taatparyadarshana/paaka-yajjna-agnihotra-riitiH.md) -->
@@ -131,18 +142,3 @@ Extracts from sudarśana-sūrī's tātparya-darśana commentary on the āp
 {: .eng-vidhi} -->
 
 <!-- - [अग्निहोत्रम्](prayoga/anukuulaa/paaka-yajjna-agnihotra-riitiH.md) -->
-
-## अन्यच्च
-
-Other texts.
-{: .eng-vidhi}
-
-- [महान्यासः][mahanyasa] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
-- [महान्याससूत्रभाष्यम्][mahanyasa-b] <span class="eng-vidhi">by T.M.Nārāyaṇa śāstrī</span>
-- [उपाकर्मप्रयोगः][upakarma] <span class="eng-vidhi">by anantarāma śāstrī</span>
-
-[mahanyasa]:{{ site.baseurl }}{% link sukta/mahanyasa.md %}
-[mahanyasa-b]:{{ site.baseurl }}{% link prayoga/mahanyasa_bhashya.md %}
-[upakarma]:{{ site.baseurl }}{% link prayoga/upakarma.md %}
-
-</div>
