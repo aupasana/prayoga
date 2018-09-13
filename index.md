@@ -122,14 +122,14 @@ from the publications of the mylapore vedādhyayana sabhā.
 Extracts from sudarśana-sūrī's tātparya-darśana commentary on the āpastamba gr̥hya sūtras.
 {: .eng-vidhi}
 
-- [उपाकर्म, उत्सर्गः, वेदव्रतानि](prayoga/taatparyadarshana/adhyayana-vrataani.md),
-[वैश्वदेवम्](prayoga/taatparyadarshana/pancha-mahaa-yajjna.md),
-[अग्निहोत्रम्](prayoga/taatparyadarshana/paaka-yajjna-agnihotra-riitiH.md)
+- [उपाकर्म, उत्सर्गः, वेदव्रतानि](prayoga/taatparyadarshana/adhyayana-vrataani.md)
+- [वैश्वदेवम्, पञ्चमहायज्ञाः (देवयज्ञः, पितृयज्ञः, मनुष्ययज्ञः, भूतयज्ञः, ब्रह्मयज्ञः)](prayoga/taatparyadarshana/pancha-mahaa-yajjna.md)
+- [पाकयज्ञेष्वग्निहोत्राधारितो विधिः](prayoga/taatparyadarshana/paaka-yajjna-agnihotra-riitiH.md)
 
 Extracts from haradatta-miśra's anākulā commentary on the āpastamba gr̥hya sūtras.
 {: .eng-vidhi}
 
-- [अग्निहोत्रम्](prayoga/anukuulaa/paaka-yajjna-agnihotra-riitiH.md)
+- [पाकयज्ञेष्वग्निहोत्राधारितो विधिः](prayoga/anukuulaa/paaka-yajjna-agnihotra-riitiH.md)
 
 ## अन्यच्च
 
