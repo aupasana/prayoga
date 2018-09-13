@@ -127,8 +127,8 @@ Extracts from sudarśana-sūrī's tātparya-darśana commentary on the āp
 <!-- [वैश्वदेवम्](prayoga/taatparyadarshana/pancha-mahaa-yajjna.md),
 [अग्निहोत्रम्](prayoga/taatparyadarshana/paaka-yajjna-agnihotra-riitiH.md) -->
 
-Extracts from haradatta-miśra's anākulā commentary on the āpastamba gr̥hya sūtras.
-{: .eng-vidhi}
+<!-- Extracts from haradatta-miśra's anākulā commentary on the āpastamba gr̥hya sūtras.
+{: .eng-vidhi} -->
 
 <!-- - [अग्निहोत्रम्](prayoga/anukuulaa/paaka-yajjna-agnihotra-riitiH.md) -->
 
