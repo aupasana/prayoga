@@ -72,7 +72,7 @@ From brahma śrī muddu śroutigal's prayoga ratnam:
 [प्रतिसरबन्धः][pratisara],
 [अग्निमुखं][agnimukha]
 
-- [दर्शतर्पणम्][tarpana]
+- [दर्शश्राद्धविधिः][tarpana]
 
 Other works:
 {: .eng-vidhi}
