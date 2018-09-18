@@ -7,7 +7,7 @@ title: अभ्युदयश्राद्धम्
 {::options parse_block_html="true" /}
 
 source: āpastambīya pūrvāpara prayoga  
-author: muddu shroutigal  
+author: muddu śroutigal  
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
 script: grantha
 {: .eng-vidhi}

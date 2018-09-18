@@ -7,7 +7,7 @@ title: गणपतिपूजा
 {::options parse_block_html="true" /}
 
 source: āśvalāyana pūrvāpara prayoga  
-author: muddu shroutigal  
+author: muddu śroutigal  
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
 script: grantha
 {: .eng-vidhi}

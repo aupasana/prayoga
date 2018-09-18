@@ -7,7 +7,7 @@ title: भूमिका
 {::options parse_block_html="true" /}
 
 source: āpastambīya pūrvāpara prayoga  
-author: muddu shroutigal  
+author: muddu śroutigal  
 publisher: swarnapuri (chennai)
 script: grantha
 {: .eng-vidhi}

@@ -7,7 +7,7 @@ title: वरलक्ष्मीपूजाकल्पः
 {::options parse_block_html="true" /}
 
 source: kalpa chintāmani  
-author: muddu shroutigal  
+author: muddu śroutigal  
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
 script: grantha
 {: .eng-vidhi}

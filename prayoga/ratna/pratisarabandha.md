@@ -7,7 +7,7 @@ title: प्रतिसरबन्धः
 {::options parse_block_html="true" /}
 
 source: āpastambīya pūrvāpara prayoga  
-author: muddu shroutigal  
+author: muddu śroutigal  
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
 script: grantha
 {: .eng-vidhi}

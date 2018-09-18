@@ -7,7 +7,7 @@ title: शुक्लचतुर्थीव्रतम्
 {::options parse_block_html="true" /}
 
 source: kalpa chintāmani  
-author: muddu shroutigal  
+author: muddu śroutigal  
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
 script: grantha
 {: .eng-vidhi}

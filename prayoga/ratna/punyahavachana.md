@@ -7,7 +7,7 @@ title: पुण्याहवाचनम्
 {::options parse_block_html="true" /}
 
 source: āpastamba śrāddha prayoga  
-author: muddu shroutigal  
+author: muddu śroutigal  
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
 script: grantha
 {: .eng-vidhi}
