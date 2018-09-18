@@ -58,7 +58,7 @@ From brahma śrī muddu śroutigal's kalpa cintāmaṇi:
 [lakshmi]:{{ site.baseurl }}{% link prayoga/chintamani/varalakshmi.md %}
 [janmashtami]:{{ site.baseurl }}{% link prayoga/chintamani/janmashtami.md %}
 
-## āpastamba pūrva prayoga
+## āpastamba pūrva / apara prayogas
 
 From brahma śrī muddu śroutigal's prayoga ratnam:
 {: .eng-vidhi}
@@ -71,6 +71,8 @@ From brahma śrī muddu śroutigal's prayoga ratnam:
 [नान्दीश्राद्धविधिः][nandi],
 [प्रतिसरबन्धः][pratisara],
 [अग्निमुखं][agnimukha]
+
+- [दर्शतर्पणम्][tarpana]
 
 Other works:
 {: .eng-vidhi}
@@ -85,6 +87,7 @@ Other works:
 [pratisara]:{{ site.baseurl }}{% link prayoga/ratna/pratisarabandha.md %}
 [agnimukha]:{{ site.baseurl }}{% link prayoga/ratna/agnimukha.md %}
 [nandi]:{{ site.baseurl }}{% link prayoga/ratna/nandi.md %}
+[tarpana]:{{ site.baseurl }}{% link prayoga/ratna/darsha_tarpana.md %}
 
 [upakarma]:{{ site.baseurl }}{% link prayoga/upakarma.md %}
 
