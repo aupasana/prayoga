@@ -7,8 +7,7 @@ language: sa
 <div lang="{{ page.language }}" class="index">
 
 This site hosts a collection of prayogas related to the tamil iyer āpastamba tradition.
-These include simple pūjas and vratas, samskāras and prāyaścitta karmas. Much of
-this content is taken from grantha texts.
+These include pūjas, vratas, samskāras and prāyaścitta karmas.
 {: .eng-vidhi}
 
 ## sūktas / mantras
