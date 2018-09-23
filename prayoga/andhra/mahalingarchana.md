@@ -1593,5 +1593,6 @@ title: महालिङ्गार्चनविधानम्
 ...
 
 ## पत्रऋणम्
-SahasraLingarchana_StepByStep_Sanskrit.pdf
-Shri Shiva Puja -- Sri vedantam subrahmany Avadhanulu
+
+- SahasraLingarchana_StepByStep_Sanskrit.pdf
+- Shri Shiva Puja -- Sri vedantam subrahmany Avadhanulu
