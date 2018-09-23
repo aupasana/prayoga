@@ -8,6 +8,7 @@ title: महागणपतिहोमप्रयोगः
 
 source: महागणपतिहोमः  
 publisher: a. subbaraman. mylapore veda adhyayana sabha  
+authors: e. balasubrahmanya sastri, janbunatha sastri, n.v. nataraja dikshitar  
 english translation by: Sundararajan Subramanian
 {: .eng-vidhi}
 

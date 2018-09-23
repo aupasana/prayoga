@@ -7,8 +7,7 @@ language: sa
 <div lang="{{ page.language }}" class="index">
 
 This site hosts a collection of prayogas related to the tamil iyer āpastamba tradition.
-These include simple pūjas and vratas, samskāras and prāyaścitta karmas. Much of
-this content is taken from grantha texts.
+These include pūjas, vratas, samskāras and prāyaścitta karmas.
 {: .eng-vidhi}
 
 ## sūktas / mantras
@@ -126,7 +125,9 @@ By T.M.Nārāyaṇa śāstrī:
 
 ## mylapore vedādhyayana sabhā books
 
-These are translated from the tamil/devanagari publications of the mylapore vedādhyayana sabhā.
+These books were published by A.Subbaraman and were compiled by E.Balasubrahmanya Sastrigal, 
+A.S.Subbukrishna Srowthigal, Jambunatha Sastrigal, N.V. Nataraja Diksitar, Swaminatha Ganapatigal, 
+K. Srinivasan and others. The tamil instructions have been translated into english.
 {: .eng-vidhi}
 
 - [महागणपतिहोमप्रयोगः]({{ site.baseurl }}{% link prayoga/mylapore/ganapati_homa.md %})
