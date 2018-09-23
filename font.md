@@ -50,4 +50,4 @@ Vedic mantras are typeset with swaras on this site. They will render as expected
 - Android: Chrome
 - iOS: Chrome / Safari (Note: None of the browsers on iOS will render the site 100% correctly)
 
-Ver: 1
+Ver: 2
