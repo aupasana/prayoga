@@ -101,7 +101,7 @@ From the śānti kusumākara:
 From the śānti ratnākara:
 {: .eng-vidhi}
 
-- [भीमरथशान्तिः][rat-bhima], [ज्वरशान्तिः][rat-jvara]
+- [भीमरथशान्तिः][rat-bhima], [ज्वरशान्तिः][rat-jvara], [शुक्रमौढ्यशान्तिः][rat-sukramaudhya]
 
 {: .eng-vidhi}
 By T.M.Nārāyaṇa śāstrī:
@@ -119,6 +119,7 @@ By T.M.Nārāyaṇa śāstrī:
 
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
 [rat-jvara]:{{ site.baseurl }}{% link prayoga/ratnakara/jvara_shanti.md %}
+[rat-jvara]:{{ site.baseurl }}{% link prayoga/ratnakara/shukra_maudhya_shanti.md %}
 
 [mahanyasa]:{{ site.baseurl }}{% link sukta/mahanyasa.md %}
 [mahanyasa-b]:{{ site.baseurl }}{% link prayoga/mahanyasa_bhashya.md %}
