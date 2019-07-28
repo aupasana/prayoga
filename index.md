@@ -96,7 +96,7 @@ From the śānti kusumākara:
 {: .eng-vidhi}
 
 - [आवहन्तीहोमविधिः][kus-avahanti], [रुद्रैकादशिनीप्रयोगः][kus-rudra11], [अब्दपूर्तिशान्तिः][kus-abda], [भीमरथशान्तिः][kus-bhima], [उपरागशान्तिः][kus-uparaga]
-[सर्वरोगहरशान्तिः][kus-sarvaroga], [वास्तुशान्तिः][kus-vastu]
+[सर्वरोगहरशान्तिः][kus-sarvaroga], [वास्तुशान्तिः][kus-vastu], [शुक्रमौढ्यशान्तिः][kus-sukramaudhya]
 
 From the śānti ratnākara:
 {: .eng-vidhi}
@@ -116,10 +116,11 @@ By T.M.Nārāyaṇa śāstrī:
 [kus-uparaga]:{{ site.baseurl }}{% link prayoga/kusumakara/uparaga_shanti.md %}
 [kus-sarvaroga]:{{ site.baseurl }}{% link prayoga/kusumakara/sarvarogahara.md %}
 [kus-vastu]:{{ site.baseurl }}{% link prayoga/kusumakara/vastu_shanti.md %}
+[kus-sukramaudhya]:{{ site.baseurl }}{% link prayoga/kusumakara/shukra_maudhya_shanti.md %}
 
 [rat-bhima]:{{ site.baseurl }}{% link prayoga/ratnakara/bhima_ratha_shanti.md %}
 [rat-jvara]:{{ site.baseurl }}{% link prayoga/ratnakara/jvara_shanti.md %}
-[rat-jvara]:{{ site.baseurl }}{% link prayoga/ratnakara/shukra_maudhya_shanti.md %}
+[rat-sukramaudhya]:{{ site.baseurl }}{% link prayoga/ratnakara/shukra_maudhya_shanti.md %}
 
 [mahanyasa]:{{ site.baseurl }}{% link sukta/mahanyasa.md %}
 [mahanyasa-b]:{{ site.baseurl }}{% link prayoga/mahanyasa_bhashya.md %}
