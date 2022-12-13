@@ -95,7 +95,7 @@ Other works:
 From the śānti kusumākara:
 {: .eng-vidhi}
 
-- [आवहन्तीहोमविधिः][kus-avahanti], [रुद्रैकादशिनीप्रयोगः][kus-rudra11], [अब्दपूर्तिशान्तिः][kus-abda], [भीमरथशान्तिः][kus-bhima], [उपरागशान्तिः][kus-uparaga]
+- [आवहन्तीहोमविधिः][kus-avahanti], [रुद्रैकादशिनीप्रयोगः][kus-rudra11], [अब्दपूर्तिशान्तिः][kus-abda], [भीमरथशान्तिः][kus-bhima], [शताभिषेकविधिः][kus-shata], [उपरागशान्तिः][kus-uparaga]
 [सर्वरोगहरशान्तिः][kus-sarvaroga], [वास्तुशान्तिः][kus-vastu], [शुक्रमौढ्यशान्तिः][kus-sukramaudhya]
 
 From the śānti ratnākara:
@@ -112,6 +112,7 @@ By T.M.Nārāyaṇa śāstrī:
 [kus-avahanti]:{{ site.baseurl }}{% link prayoga/kusumakara/avahanti_homa.md %}
 [kus-abda]:{{ site.baseurl }}{% link prayoga/kusumakara/abda_purti_shanti.md %}
 [kus-bhima]:{{ site.baseurl }}{% link prayoga/kusumakara/bhima_ratha_shanti.md %}
+[kus-shata]:{{ site.baseurl }}{% link prayoga/kusumakara/shatabhisheka.md %}
 [kus-rudra11]:{{ site.baseurl }}{% link prayoga/kusumakara/rudraikadashini.md %}
 [kus-uparaga]:{{ site.baseurl }}{% link prayoga/kusumakara/uparaga_shanti.md %}
 [kus-sarvaroga]:{{ site.baseurl }}{% link prayoga/kusumakara/sarvarogahara.md %}
