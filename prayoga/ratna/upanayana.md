@@ -51,7 +51,7 @@ script: grantha
 
 [चौलवत्कृत्वा][chaula]॥ 
 
-[chaula]:{{ site.baseurl }}{% link prayoga/ratna/caula.md %} 
+[chaula]:{{ site.baseurl }}{% link prayoga/ratna/chaula.md %} 
 
 सू -- स्नातमग्नेरुपसमाधानादि 
 
