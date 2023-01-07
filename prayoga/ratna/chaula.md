@@ -52,16 +52,19 @@ script: grantha
 
 सू -- उष्णेन वापयति यजुषाऽपः संसृज्योष्णाः शीतास्वानीय
 
-उ॒ष्णेन॑ वायवुद॒केनेह्यदि॑तिः॒ केशा॑न्, वपतु॥ 
-
+उ॒ष्णेन॑ वायवुद॒केनेह्यदि॑तिः॒ केशा॑न्, वपतु॥  
 (उ॒ष्णेन॑ वायो - उ॒द॒केनेहि॑ - अदि॑तिः - केशा॑॑न् - व॒प॒तु॒॥) 
 
+Oh! ” VAyu!” Please bring hot water. Oh! “adithi”, may you cut the hair.
+{: .eng-vidhi}
 
 सू -- आप इन्दन्त्विति शिर उनत्ति 
 
-आप॑ उन्दन्तु जी॒वसे॑ दीर्घायु॒त्वाय॒ वर्च॑से। ज्योक् च॒ सूर्यं॑ दृ॒शे।
-
+आप॑ उन्दन्तु जी॒वसे॑ दीर्घायु॒त्वाय॒ वर्च॑से। ज्योक् च॒ सूर्यं॑ दृ॒शे।  
 (आपः॑ - उ॒न्द॒न्तु॒ - जी॒वसे॑॑ - दी॒र्घा॒यु॒त्वाय॑ - वर्च॑से। ज्योक् च॑ - सूर्यं॑॑ - दृ॒शे।)
+
+Oh ! “Apa” (water), may you wet the child’s head. May this child live long for 116 years with prosperity. May he live long seeing the sun.
+{: .eng-vidhi}
 
 सू -- त्रिंस्त्रीन् दर्भानन्तर्धाय येनावपदिति चतसृभिः प्रतिमन्त्रं प्रतिदिशं प्रवपति 
 
@@ -70,8 +73,11 @@ script: grantha
 येनाव॑पत् सवि॒ता क्षु॒रेण॒ सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान्।  
 तेन॑ ब्रह्माणो वपते॒दम॒स्यायु॑ष्मा॒ञ्जर॑दष्टि॒र्यथाऽस॑द॒यम॒सौ।
 
-(येनाव॑पत् - स॒वि॒ता - क्षु॒रेण॑ - सोम॑स्य - राज्ञः॑ - वरु॑णस्य - वि॒द्वान्। 
+(येनाव॑पत् - स॒वि॒ता - क्षु॒रेण॑ - सोम॑स्य - राज्ञः॑ - वरु॑णस्य - वि॒द्वान्।  
 तेन॑ ब्रह्माणः - व॒प॒त - इ॒दम् - अ॒स्यायु॑ष्मान् - जर॑दष्टिः - यथाऽस॑त् - अ॒यम् ... श॒र्मा।)
+
+May I get permission from the brAhmaNAs to use that razor for cutting the hair of my child, which was used by Lord SavithA to shave the head of sOma rAjA and the head of varuNa. Let this child get good digestion power and long life.
+{: .eng-vidhi}
 
 सू -- वपन्तं यत्क्षुरेणेत्यनुमन्त्रयते 
 
@@ -79,6 +85,9 @@ script: grantha
 
 (यत्क्षु॒रेण॑ - म॒र्चय॑ता - सु॒पे॒शसा॑॑ - वप्त्रा॑॑ - वप॑सि॒ - केशा॑॑न्।  
 शु॒न्धि॒ - शिरः॑ - माऽस्यायुः॑ प्रमो॑षीः।)
+
+The razor is sharp and brilliant. May the razor shave the head of the child clean. Dont reduce his age.
+{: .eng-vidhi}
 
 ### दक्षिणतः
 
@@ -88,6 +97,9 @@ script: grantha
 (येन॑ पू॒षा - बृ॒ह॒स्पतेः॑॑ - अ॒ग्नेः - इन्द्र॑स्य॒ च - आयु॒षेऽव॑पत्।  
 तेन॑ - अ॒स्यायु॑षे वप - सौश्लो॑॑क्याय स्व॒स्तये॑॑।)
 
+That razor which was used by pooshA, bruhaspati, agni and indrA for longivity, with the same razor or in the same way I shave your (child’s) head so that you are bestowed with long life, fame and prosperity.
+{: .eng-vidhi}
+
 ### पश्चात्
 
 येन॒ भूय॒श्चरा॑॑त्य॒यं ज्योक् च॒ पश्या॑ति॒ सूर्य॑॑म्।  
@@ -95,6 +107,9 @@ script: grantha
 
 (येन॒ भूयः॑ - चरा॑॑त्य॒यं - ज्योक् च॑ - पश्या॑ति - सूर्य॑॑म्।  
 तेन - अ॒स्यायु॑षे वप - सौश्लो॑॑क्याय - स्व॒स्तये॑॑।)
+
+May this child tread on the earth while seeing the sun. Thus let him have long life, fame and prosperity.
+{: .eng-vidhi}
 
 छित्वा॥
 
@@ -106,6 +121,9 @@ script: grantha
 (येन॑ पू॒षा - बृ॒ह॒स्पतेः॑॑ - अग्नेः - इन्द्र॑स्य च - आयु॒षेऽव॑पत्।  
 तेन॑ ते - व॒पा॒मि॒ - ... श॒र्म॒न् - आयु॑षा - वर्च॑सा - यथा॒ ज्योक् - सु॒मनाः॑॑ - असाः॑॑।)
 
+That razor which was used by pooshA, bruhaspati, agni and indrA for longivity, with the same razor or in the same way I shave your (child’s) head so that you are bestowed with long life, prosperity and good mind.
+{: .eng-vidhi}
+
 छित्वाऽप उपस्पृश्य॥ 
 
 सू -- दक्षिणतो माता ब्रह्मचारी वाऽऽनडुहे शकृत्पिण्डे यवान्निधाय तस्मिन्केशानुपयम्योप्त्वाय केशानित्युदुम्बरमूले दर्भस्तम्बे वा निदधाति 
@@ -113,6 +131,9 @@ script: grantha
 उ॒प्त्वाय॒ केशा॒न् वरु॑णस्य॒ राज्ञो॒ बृह॒स्पतिः॑ सवि॒ता सोमो॑ अ॒ग्निः। 
 
 (उ॒प्त्वाय॑ - केशा॑॑न् - वरु॑णस्य - राज्ञः॑ - बृ॒ह॒स्पतिः॑ - स॒वि॒ता - सोमो॑ अ॒ग्निः।)
+
+Just like bruhaspati, savitA, somA and agni put the cut hair in dhyAvA, pRuthivi, Ap and suva:, I put these cut hair under the tree. A barber then shaves the childs head neatly. The child and the father/AchAryan have a bath and do Achamanam.
+{: .eng-vidhi}
 
 सू -- क्षुरं प्रक्षाल्य निदधाति। तेन त्र्यहं कर्मनिवृत्तिर्वरं ददाति॥ 
 
