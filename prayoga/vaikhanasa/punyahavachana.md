@@ -7,8 +7,8 @@ title: पुण्याहवाचनम्
 {::options parse_block_html="true" /}
 
 source: śrī vaikhānasa mantra praśnaḥ  
-publisher: Sangendhi Dr. S. Muthu Batter & Thanjavur Dr. S. Sudarshan 
-script: grantha
+publisher: Sangendhi Dr. S. Muthu Batter & Thanjavur Dr. S. Sudarshan  
+script: grantha 
 {: .eng-vidhi}
 
 {% capture toc_include %}{% include toc.md %}{% endcapture %}{{ toc_include | markdownify }}
